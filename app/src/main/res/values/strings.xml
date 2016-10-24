@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">语音助手</string>
+    <string name="text_begin">请开始说话…</string>
+    <string name="upload_contacts">点击上传联系人姓名,识别更准确!</string>
+    <string name="text_upload_contacts">正在上传联系人信息...</string>
+    <string name="text_upload_success">上传成功!</string>
+    <string name="showapp">这是一款语音助手APP,主要功能有:智能问答,简单计算,闲聊,打电话,发短信,播放音乐,打开APP,菜谱查询,翻译,天气查询,网页查询...更多小功能,等你来发现欧...</string>
+    <string name="power">Power by 科大讯飞</string>
+</resources>

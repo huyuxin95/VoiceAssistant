@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="false">
+    <item
+        android:drawable="@drawable/loading_blue1"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue2"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue5"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue6"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue7"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue8"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue9"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue10"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue11"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue14"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue15"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue16"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue19"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue20"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue23"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue24"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue27"
+        android:duration="60"/>
+
+    <item
+        android:drawable="@drawable/loading_blue28"
+        android:duration="60"/>
+
+</animation-list>
