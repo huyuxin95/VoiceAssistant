@@ -96,7 +96,7 @@ public class MainActivity extends Activity {
         requestWindowFeature(Window.FEATURE_NO_TITLE);
         setContentView(R.layout.activity_main);
 
-        SpeechUtility.createUtility(this, SpeechConstant.APPID + "=58057863");
+        SpeechUtility.createUtility(this, SpeechConstant.APPID + "=YOUR APP KEY");
         initLayout();
         /**
          * 申请的appid时，我们为开发者开通了开放语义（语义理解）
